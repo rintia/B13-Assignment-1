@@ -129,3 +129,31 @@ header .banner .banner-content .btn-secondary{
 .notes .notes-container .card-container .card img{
     margin: 0 auto;
 }
+/* brain */
+.brain-container{
+    display: flex;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    align-items: center;
+    gap: 60px;
+}
+
+.brain-container .brain-content h2{
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.brain-container .brain-content p{
+    color: #627382;
+    margin-bottom: 40px;
+    line-height: 20px;
+}
+.brain-container .brain-content ul{
+    list-style: none;
+}
+.brain-container .brain-content ul li{
+    margin-bottom: 16px;
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
