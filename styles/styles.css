@@ -44,7 +44,7 @@ header nav ul{
 }
 
 header .banner{
-    background-image: url('images/hero-bg.png');
+    background-image: url('/images/hero-bg.png');
     height: 647px;
     text-align: center;
     display: flex;
