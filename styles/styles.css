@@ -177,3 +177,16 @@ header .banner .banner-content .btn-secondary{
     font-size: 40px;
     font-weight: bold;
 }
+
+/* Footer */
+footer{
+    background-color: #001931;
+    padding-top: 120px ;
+    padding-bottom: 30px;
+    color: white;
+}
+
+footer .footer-container{
+    display: flex;
+    justify-content: space-between;
+}
